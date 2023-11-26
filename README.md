@@ -2,4 +2,4 @@
 
 ![alt](./dot.gif)
 ![alt](./logo.png)
-![alt](./money.png.png)
+![alt](./money.png)
